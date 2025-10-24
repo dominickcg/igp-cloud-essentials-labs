@@ -1,0 +1,27 @@
+ALERTA SÍSMICA - INSTITUTO GEOFÍSICO DEL PERÚ
+
+FECHA: 15 de Noviembre de 2024
+HORA: 14:32 UTC
+MAGNITUD: 6.2 Mw
+PROFUNDIDAD: 45 kilómetros
+EPICENTRO: 150 km al sureste de Lima, Perú
+COORDENADAS: 12.5°S, 76.2°W
+
+DESCRIPCIÓN:
+Se ha registrado un sismo de magnitud 6.2 en la escala de Richter con epicentro ubicado a 150 kilómetros al sureste de la ciudad de Lima. El evento sísmico ocurrió a una profundidad de 45 kilómetros, clasificándose como un sismo de profundidad intermedia.
+
+RECOMENDACIONES:
+- Mantenga la calma y diríjase a zonas seguras
+- Verifique el estado de las estructuras antes de ingresar
+- Esté atento a posibles réplicas en las próximas horas
+- Siga las instrucciones de las autoridades locales
+- Revise el suministro de agua, gas y electricidad
+
+INTENSIDAD ESTIMADA:
+- Lima Metropolitana: IV-V (Moderado)
+- Ica: VI (Fuerte)
+- Huancavelica: V-VI (Moderado a Fuerte)
+
+Para más información, visite www.igp.gob.pe o llame a la línea de emergencias 911.
+
+Este mensaje es generado automáticamente por el Sistema de Alerta Temprana del IGP.
