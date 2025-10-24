@@ -17,12 +17,19 @@ Aprender a usar servicios de IA/ML de AWS en 90 minutos a través de ejercicios 
 
 **✅ Sin configuración de credenciales** - SageMaker usa tu usuario IAM automáticamente
 
-### 📖 Guía Completa (Ver `docs/deployment-guide.md`)
+## 📖 Documentación Completa
 
-- Instrucciones detalladas para SageMaker Studio Lab
-- Configuración de credenciales IAM
-- Troubleshooting y soporte
+### 📋 Guías para Participantes
+- **[🚀 docs/deployment-guide.md](docs/deployment-guide.md)** - Guía completa de despliegue
+- **[🆘 docs/troubleshooting.md](docs/troubleshooting.md)** - Solución de problemas
 
+### 📚 Notebooks del Laboratorio
+- **[🔍 notebooks/01-rekognition.ipynb](notebooks/01-rekognition.ipynb)** - Análisis de imágenes
+- **[📝 notebooks/02-comprehend.ipynb](notebooks/02-comprehend.ipynb)** - Análisis de texto
+- **[📄 notebooks/03-textract.ipynb](notebooks/03-textract.ipynb)** - OCR documentos
+- **[🔊 notebooks/04-polly.ipynb](notebooks/04-polly.ipynb)** - Síntesis de voz
+- **[🤖 notebooks/05-bedrock.ipynb](notebooks/05-bedrock.ipynb)** - IA Generativa
+- **[💻 notebooks/06-q-developer.ipynb](notebooks/06-q-developer.ipynb)** - Asistente de código
 
 
 ## 📚 Módulos del Laboratorio
@@ -47,12 +54,6 @@ Aprender a usar servicios de IA/ML de AWS en 90 minutos a través de ejercicios 
 - ✅ Navegador web moderno
 
 **💡 Ventaja**: Sin configuración de credenciales. SageMaker usa automáticamente los permisos de tu usuario IAM.
-
-### Para Instructores
-
-- ✅ Acceso a cuenta AWS donde están los usuarios IAM
-- ✅ Verificación de permisos de participantes
-- ✅ Conocimiento básico de Jupyter Notebooks
 
 ## 🔧 Configuración (Solo para Instructores)
 
@@ -93,23 +94,29 @@ lab-05-aws-ai-ml-services/
 │
 
 │
+├── scripts/                           # 🛠️ Scripts de utilidad
+│   └── validate_credentials.py       # Validador de permisos IAM
+│
 └── docs/                             # 📖 Documentación
-    ├── instructor-guide.md           # Guía completa instructor
-    ├── troubleshooting.md            # Solución de problemas
-    └── participant-guide.md          # Guía rápida participante
+    ├── deployment-guide.md           # Guía completa de despliegue
+    └── troubleshooting.md            # Solución de problemas
 ```
 
 ### 📋 Descripción de Archivos Clave
 
 **Para Participantes:**
+- **[⚡ INICIO-RAPIDO.md](INICIO-RAPIDO.md)** - Empezar inmediatamente
+- **[notebooks/](notebooks/)** - Notebooks principales del laboratorio
+- **[data/sample_data.py](data/sample_data.py)** - Datos embebidos (no requiere descarga)
 
-- `notebooks/01-06-*.ipynb` - Notebooks principales del laboratorio
-- `data/sample_data.py` - Datos embebidos (no requiere descarga)
+## 🆘 Soporte y Recursos
 
+- **[🆘 Troubleshooting](docs/troubleshooting.md)**: Soluciones a problemas comunes
 
-## 🆘 Soporte
-
-- **Problemas técnicos**: Ver `docs/troubleshooting.md`
+### 🌐 Enlaces Externos
+- **AWS Console SageMaker**: https://console.aws.amazon.com/sagemaker/
+- **Repositorio GitHub**: https://github.com/dominickcg/igp-cloud-essentials-labs
+- **Documentación AWS AI/ML**: https://docs.aws.amazon.com/machine-learning/
 
 ---
 
