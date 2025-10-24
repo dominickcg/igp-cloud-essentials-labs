@@ -30,17 +30,19 @@ En Jupyter, hacer clic en **"New"** → **"Terminal"** y ejecutar:
 
 ```bash
 git clone https://github.com/dominickcg/igp-cloud-essentials-labs.git
-cd igp-cloud-essentials-labs/lab-05-aws-ai-ml-services
+cp -r igp-cloud-essentials-labs/lab-05-aws-ai-ml-services/* /home/ec2-user/SageMaker/
+cd /home/ec2-user/SageMaker
 pip install -r requirements.txt
 ```
 
 #### Paso 4: Comenzar el Laboratorio
 
-1. En Jupyter, navegar a la carpeta `igp-cloud-essentials-labs/lab-05-aws-ai-ml-services/notebooks/`
-2. Abrir `00-laboratorio-maestro.ipynb`
-3. **No necesitas configurar credenciales** - SageMaker usa tu usuario IAM automáticamente
-4. Seguir las instrucciones del navegador
-5. Completar módulos 1-6 en orden
+1. Refrescar Jupyter (F5 o botón Refresh)
+2. En Jupyter, navegar a la carpeta `notebooks/`
+3. Abrir `00-laboratorio-maestro.ipynb`
+4. **No necesitas configurar credenciales** - SageMaker usa tu usuario IAM automáticamente
+5. Seguir las instrucciones del navegador
+6. Completar módulos 1-6 en orden
 
 ---
 
