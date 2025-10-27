@@ -67,11 +67,11 @@ pip install -r requirements.txt
 Al completar este laboratorio en Amazon SageMaker, los participantes podrán:
 
 ✅ **Usar SageMaker** como entorno de desarrollo para AI/ML científico  
-✅ **Analizar imágenes satelitales** usando Amazon Rekognition para detectar formaciones geológicas  
+✅ **Analizar imágenes** usando Amazon Rekognition para detectar formaciones geológicas  
 ✅ **Procesar documentos científicos** con Amazon Comprehend para extraer entidades y sentimientos  
-✅ **Digitalizar formularios de campo** usando Amazon Textract para convertir tablas a datos estructurados  
+✅ **Digitalizar documentos o imágenes** usando Amazon Textract para convertir tablas a datos estructurados  
 ✅ **Generar alertas de audio** con Amazon Polly para sistemas de emergencia  
-✅ **Crear contenido científico y código** usando Amazon Bedrock para IA generativa aplicada a geofísica
+✅ **Crear contenido científico y código** usando Amazon Bedrock para IA generativa aplicada
 
 ---
 
